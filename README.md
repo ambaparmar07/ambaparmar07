@@ -1,63 +1,80 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
+<!--                        HEADER                             -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f14,50:171722,100:24243a&height=220&section=header&text=Amba%20Parmar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18" />
-
-</div>
-
-<!-- ======================= TYPING ======================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+useful+software+with+AI+%F0%9F%91%BB;Exploring+AI+systems+%26+RAG;Turning+ideas+into+real+products;Currently+building+JobPilot+%F0%9F%A4%96" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:171B26,100:2A2342&height=210&section=header&text=AMBA%20PARMAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Developer&descAlignY=62&descSize=17" width="100%" />
 
 <br>
 
-<!-- ======================= INTRO ======================= -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+useful+things+with+AI+%F0%9F%91%BB;AI+%7C+Backend+%7C+Full-Stack;Turning+ideas+into+real+products;Currently+building+JobPilot+%F0%9F%A4%96" />
 
-<div align="center">
+<br><br>
 
-### 👻 Hey, I'm Amba
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-171B26?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-I build **AI-powered and full-stack products** that solve practical problems.
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-171B26?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Currently focused on **AI systems, backend development, product engineering, and learning by building.**
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-171B26?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
-<!-- ======================= GHOST ======================= -->
+---
+
+<!-- ========================================================= -->
+<!--                       INTRO                               -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="90" />
+## 👻 Hey, I'm Amba
+
+**AI Engineer • Software Developer • Builder**
+
+I like turning ideas into practical software.
+
+I build across **AI, backend systems, APIs, full-stack applications and automation** —  
+and I learn best by actually building things.
 
 </div>
 
 <br>
 
-<!-- ======================= ABOUT ======================= -->
+<!-- ========================================================= -->
+<!--                  CURRENTLY BUILDING                       -->
+<!-- ========================================================= -->
 
-## 👻 About Me
+## 👻 Currently Building
+
+<div align="center">
+
+### 🤖 JobPilot
+
+**An AI-powered job discovery & matching platform**
+
+<br>
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  👋  I'm Amba — an AI Engineer & Software Developer.       │
-│                                                            │
-│  🤖  I enjoy building AI-powered applications.             │
-│  🧩  I like solving real-world problems with software.     │
-│  🛠️  I learn best by building and experimenting.          │
-│  🌱  Currently improving my AI + backend skills.           │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+                     👻
+                      │
+                      ▼
+              ┌───────────────┐
+              │    JobPilot   │
+              └───────┬───────┘
+                      │
+             ┌────────┼────────┐
+             ▼        ▼        ▼
+          Search   Resume   Matching
+             │        │        │
+             └────────┼────────┘
+                      ▼
+               Better Results
