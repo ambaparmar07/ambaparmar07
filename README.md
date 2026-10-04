@@ -24,9 +24,7 @@
 <img src="https://img.shields.io/badge/GitHub-ambaparmar07-171B26?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ambaparmar07&label=PROFILE%20VIEWS&color=A78BFA&style=flat-square" />
+<br>
 
 </div>
 
